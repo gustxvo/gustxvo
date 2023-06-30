@@ -1,14 +1,17 @@
-# [![Banner](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/gustxvo)
+# Hi there, I'm Gustavo Almeida
 
-**[English](README.md)** | [Portuguese](README-ptBR.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README-ptBR.md)
 
-## Hi there 👋
+## About Me 👋
 
-I'm a Kotlin Developer who enjoys learning new things. I build native Android apps and REST APIs with Spring
+I'm a Kotlin/Java developer and build Android apps and REST APIs with Spring Boot.
 
-- 🔭 I'm currently working on **[MaisFinanças]**
-- 🌱 I’m currently learning **Jetpack Compose**
-- 💬 Ask me about **Android**, **Kotlin**
+I'm interested in the JAVA ecosystem and tools for task automation and deployment in production environments.
+
+- 🔭 I am currently studying at **[Fatec SCS](https://www.cps.sp.gov.br/fatecs/fatec-sao-caetano-do-sul-antonio-russo/)** and working at my academic project **[MaisFinanças](https://github.com/mais-financas)**
+- 🌱 I'm currently learning **[Jetpack Compose](https://developer.android.com/jetpack/compose)** and exploring DevOps
+- 💬 You can ask me about Android, Kotlin, Java, Spring Boot, Docker or Gradle.
 
 ## Language and frameworks
 

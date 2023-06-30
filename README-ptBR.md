@@ -1,14 +1,17 @@
-# [![Banner](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/gustxvo)
+# Olá, eu sou o Gustavo Almeida 👋
 
-[Inglês](README.md) | **[Português](README.md)**
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README-ptBR.md)
 
-## Olá, sou o Gustavo 👋
+## Sobre mim
 
-Sou um desenvolvedor em Kotlin e gosto muito de aprender coisas novas. Desenvolvo apps para Android e REST APIs com Spring
+Sou um desenvolvedor Kotlin/Java e gosto de criar aplicações Android e APIs REST com Spring Boot.
 
-- 🔭 Atualmente estou trabalhando com o projeto **[MaisFinanças]**
-- 🌱 Atualmente estou aprendendo **Jetpack Compose**
-- 💬 Pergunte-me sobre **Android**, **Kotlin**
+Tenho interesse no ecossistema JAVA em ferramentas para automações de tarefas e implantação em ambientes de produção.
+
+- 🔭 Atualmente estou me formando na **[Fatec SCS](https://www.cps.sp.gov.br/fatecs/fatec-sao-caetano-do-sul-antonio-russo/)** e desenvolvendo o projeto acadêmico **[MaisFinanças](https://github.com/mais-financas)**
+- 🌱 Atualmente estou aprendendo **[Jetpack Compose](https://developer.android.com/jetpack/compose)** e explorando DevOps
+- 💬 Pode me perguntar sobre Android, Kotlin, Java, Spring Boot, Docker ou Gradle.
 
 ## Linguagens e Ferramentas
 
@@ -16,7 +19,7 @@ Sou um desenvolvedor em Kotlin e gosto muito de aprender coisas novas. Desenvolv
 
 ---
 
-![Status GitHub](https://github-readme-stats.vercel.app/api?username=gustxvo&show_icons=true&theme=tokyonight&hide=stars,prs,issues) &nbsp; &nbsp; &nbsp; ![Linguagens de programação](https://github-readme-stats.vercel.app/api/top-langs/?username=gustxvo&layout=compact&theme=tokyonight&hide=Shell)
+![Status GitHub](https://github-readme-stats.vercel.app/api?username=gustxvo&show_icons=true&theme=tokyonight&hide=stars) &nbsp; &nbsp; &nbsp; ![Linguagens de programação](https://github-readme-stats.vercel.app/api/top-langs/?username=gustxvo&layout=compact&theme=tokyonight&hide=Shell)
 
 ## Fale Comigo
 
