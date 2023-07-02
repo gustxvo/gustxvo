@@ -15,11 +15,11 @@ I'm interested in the JAVA ecosystem and tools for task automation and deploymen
 
 ## Language and frameworks
 
-<a href="https://kotlinlang.org"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/> </a> <a href="https://developer.android.com"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" height="45"/> </a> <a href="https://www.postgresql.org"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,spring,git,github,postgres,docker,postman&theme=light)](https://skillicons.dev)
 
 ---
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustxvo&show_icons=true&theme=tokyonight&hide=stars,prs,issues) &nbsp; &nbsp; &nbsp; ![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustxvo&layout=compact&theme=tokyonight&hide=Shell)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustxvo&show_icons=true&theme=tokyonight&hide=stars) &nbsp; &nbsp; &nbsp; ![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustxvo&layout=compact&theme=tokyonight&hide=Shell)
 
 ## Contact-me in
 
