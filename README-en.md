@@ -1,0 +1,27 @@
+# Hi there, I'm Gustavo Almeida 👋
+
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README-en.md)
+
+## About Me
+
+I'm a Kotlin/Java developer and build Android apps and REST APIs with Spring Boot.
+
+I'm interested in the JAVA ecosystem and tools for task automation and deployment in production environments.
+
+- 🔭 I am currently studying at **[Fatec SCS](https://www.cps.sp.gov.br/fatecs/fatec-sao-caetano-do-sul-antonio-russo/)** and working at my academic project **[MaisFinanças](https://github.com/mais-financas)**
+- 🌱 I'm currently learning **[Jetpack Compose](https://developer.android.com/jetpack/compose)** and exploring DevOps
+- 💬 You can ask me about Android, Kotlin, Java, Spring Boot, Docker or Gradle.
+
+## Language and frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,spring,git,github,postgres,docker,postman&theme=light)](https://skillicons.dev)
+
+---
+
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustxvo&show_icons=true&theme=tokyonight&hide=stars) &nbsp; &nbsp; &nbsp; ![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustxvo&layout=compact&theme=tokyonight&hide=Shell)
+
+## Reach me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-almeida-carvalho-39b22b219)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gualmeida2004@gmail.com)

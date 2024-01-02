@@ -1,27 +1,27 @@
-# Hi there, I'm Gustavo Almeida
+# Olá, eu sou o Gustavo Almeida 👋
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README-ptBR.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README-en.md)
 
-## About Me 👋
+## Sobre mim
 
-I'm a Kotlin/Java developer and build Android apps and REST APIs with Spring Boot.
+Sou um desenvolvedor Kotlin/Java e gosto de criar aplicações Android e APIs REST com Spring Boot.
 
-I'm interested in the JAVA ecosystem and tools for task automation and deployment in production environments.
+Tenho interesse no ecossistema JAVA em ferramentas para automações de tarefas e implantação em ambientes de produção.
 
-- 🔭 I am currently studying at **[Fatec SCS](https://www.cps.sp.gov.br/fatecs/fatec-sao-caetano-do-sul-antonio-russo/)** and working at my academic project **[MaisFinanças](https://github.com/mais-financas)**
-- 🌱 I'm currently learning **[Jetpack Compose](https://developer.android.com/jetpack/compose)** and exploring DevOps
-- 💬 You can ask me about Android, Kotlin, Java, Spring Boot, Docker or Gradle.
+- 🔭 Atualmente estou me formando na **[Fatec SCS](https://www.cps.sp.gov.br/fatecs/fatec-sao-caetano-do-sul-antonio-russo/)** e desenvolvendo o projeto acadêmico **[MaisFinanças](https://github.com/mais-financas)**
+- 🌱 Atualmente estou aprendendo **[Jetpack Compose](https://developer.android.com/jetpack/compose)** e explorando DevOps
+- 💬 Pode me perguntar sobre Android, Kotlin, Java, Spring Boot, Docker ou Gradle.
 
-## Language and frameworks
+## Linguagens e Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,spring,git,github,postgres,docker,postman&theme=light)](https://skillicons.dev)
 
 ---
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustxvo&show_icons=true&theme=tokyonight&hide=stars) &nbsp; &nbsp; &nbsp; ![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustxvo&layout=compact&theme=tokyonight&hide=Shell)
+![Status GitHub](https://github-readme-stats.vercel.app/api?username=gustxvo&show_icons=true&theme=tokyonight&hide=stars) &nbsp; &nbsp; &nbsp; ![Linguagens de programação](https://github-readme-stats.vercel.app/api/top-langs/?username=gustxvo&layout=compact&theme=tokyonight&hide=Shell)
 
-## Contact-me in
+## Fale Comigo
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-almeida-carvalho-39b22b219)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gualmeida2004@gmail.com)
