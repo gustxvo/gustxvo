@@ -9,8 +9,8 @@ Sou um desenvolvedor Kotlin/Java e gosto de criar aplicações Android e APIs RE
 
 Tenho interesse no ecossistema JAVA em ferramentas para automações de tarefas e implantação em ambientes de produção.
 
-- 🔭 Atualmente estou me formando na **[Fatec SCS](https://www.cps.sp.gov.br/fatecs/fatec-sao-caetano-do-sul-antonio-russo/)** e desenvolvendo o projeto acadêmico **[MaisFinanças](https://github.com/mais-financas)**
-- 🌱 Atualmente estou aprendendo **[Jetpack Compose](https://developer.android.com/jetpack/compose)** e explorando DevOps
+- 🔭 Atualmente cursando uma pós-graduação em Arquitetura de Soluções pela [Unopar](https://www.unopar.com.br/).
+- 🌱 Atualmente estou aprendendo [Jetpack Compose](https://developer.android.com/jetpack/compose) e explorando DevOps
 - 💬 Pode me perguntar sobre Android, Kotlin, Java, Spring Boot, Docker ou Gradle.
 
 ## Linguagens e Ferramentas
@@ -20,6 +20,10 @@ Tenho interesse no ecossistema JAVA em ferramentas para automações de tarefas 
 ---
 
 ![Status GitHub](https://github-readme-stats.vercel.app/api?username=gustxvo&show_icons=true&theme=tokyonight&hide=stars) &nbsp; &nbsp; &nbsp; ![Linguagens de programação](https://github-readme-stats.vercel.app/api/top-langs/?username=gustxvo&layout=compact&theme=tokyonight&hide=Shell)
+
+## Conheça meu portfólio
+
+![Portfólio](https://raw.githubusercontent.com/gustxvo/portfolio/refs/heads/main/assets/portfolio.png)
 
 ## Fale Comigo
 

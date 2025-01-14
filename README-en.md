@@ -9,7 +9,7 @@ I'm a Kotlin/Java developer and build Android apps and REST APIs with Spring Boo
 
 I'm interested in the JAVA ecosystem and tools for task automation and deployment in production environments.
 
-- 🔭 I am currently studying at **[Fatec SCS](https://www.cps.sp.gov.br/fatecs/fatec-sao-caetano-do-sul-antonio-russo/)** and working at my academic project **[MaisFinanças](https://github.com/mais-financas)**
+- 🔭 I am currently studying at [Unopar](https://www.unopar.com.br/).
 - 🌱 I'm currently learning **[Jetpack Compose](https://developer.android.com/jetpack/compose)** and exploring DevOps
 - 💬 You can ask me about Android, Kotlin, Java, Spring Boot, Docker or Gradle.
 
@@ -20,6 +20,10 @@ I'm interested in the JAVA ecosystem and tools for task automation and deploymen
 ---
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustxvo&show_icons=true&theme=tokyonight&hide=stars) &nbsp; &nbsp; &nbsp; ![Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustxvo&layout=compact&theme=tokyonight&hide=Shell)
+
+## Check out my portfólio
+
+![Portfolio](https://raw.githubusercontent.com/gustxvo/portfolio/refs/heads/main/assets/portfolio.png)
 
 ## Reach me
 
