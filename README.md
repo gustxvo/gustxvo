@@ -23,7 +23,7 @@ Tenho interesse no ecossistema JAVA em ferramentas para automações de tarefas 
 
 ## Conheça meu portfólio
 
-![Portfólio](https://raw.githubusercontent.com/gustxvo/portfolio/refs/heads/main/assets/portfolio.png)
+[![Portfólio](https://raw.githubusercontent.com/gustxvo/portfolio/refs/heads/main/assets/portfolio.png)](https://gustavoalmeidacarvalho.com)
 
 ## Fale Comigo
 

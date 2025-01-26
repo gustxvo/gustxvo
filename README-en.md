@@ -23,7 +23,7 @@ I'm interested in the JAVA ecosystem and tools for task automation and deploymen
 
 ## Check out my portfólio
 
-![Portfolio](https://raw.githubusercontent.com/gustxvo/portfolio/refs/heads/main/assets/portfolio.png)
+[![Portfolio](https://raw.githubusercontent.com/gustxvo/portfolio/refs/heads/main/assets/portfolio.png)](https://gustavoalmeidacarvalho.com)
 
 ## Reach me
 
