@@ -9,9 +9,9 @@ I'm a Kotlin/Java developer and build Android apps and REST APIs with Spring Boo
 
 I'm interested in the JAVA ecosystem and tools for task automation and deployment in production environments.
 
-- 🔭 I am currently studying at [Unopar](https://www.unopar.com.br/).
-- 🌱 I'm currently learning **[Jetpack Compose](https://developer.android.com/jetpack/compose)** and exploring DevOps
-- 💬 You can ask me about Android, Kotlin, Java, Spring Boot, Docker or Gradle.
+- 👩‍💻 I'm currently working on refactoring a legacy hobby project.
+- 🧠 I'm currently learning **Spring Boot** and the **Spring** ecossystem.
+- 💬 You can ask me about  Java, Kotlin, Spring Boot, Docker, Android or Gradle.
 
 ## Language and frameworks
 

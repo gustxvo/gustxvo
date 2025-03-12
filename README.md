@@ -9,10 +9,9 @@ Sou um desenvolvedor Kotlin/Java e gosto de criar aplicações Android e APIs RE
 
 Tenho interesse no ecossistema JAVA em ferramentas para automações de tarefas e implantação em ambientes de produção.
 
-- 🔭 Atualmente cursando uma pós-graduação em Arquitetura de Soluções pela [Unopar](https://www.unopar.com.br/).
-- 🌱 Atualmente estou aprendendo [Jetpack Compose](https://developer.android.com/jetpack/compose) e explorando DevOps
-- 💬 Pode me perguntar sobre Android, Kotlin, Java, Spring Boot, Docker ou Gradle.
-
+- 👩‍💻 Trabalhando na refatoranção de um projeto pessoal legado.
+- 🧠 Atualmente estou aprendendo sobre **Spring Boot** e o ecossistema **Spring**.
+- 💬 Pode me perguntar sobre Java, Kotlin, Spring Boot, Docker, Android or Gradle.
 ## Linguagens e Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,spring,git,github,postgres,docker,postman&theme=light)](https://skillicons.dev)
